@@ -1,14 +1,114 @@
-# 💫 About Me:
-I'm currently learning
-CyberSecurity,
-AI/ML,
-GameDev
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Wonderful_Scar9403) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anubhav.arc25@gmail.com) 
+<!--
+  SETUP CHECKLIST
+  1. Replace every [Your Name] / YOUR_USERNAME / YOUR_LINKEDIN / your.email@example.com placeholder below.
+  2. This only becomes your GitHub profile page if it lives in a PUBLIC repo named EXACTLY
+     your username — e.g. github.com/USERNAME/USERNAME — with this file saved as README.md.
+-->
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=650&lines=Systems+and+Low-Level+Programmer;OS/Kernel+and+Emulator+Dev;Game+Dev,+AI/ML+and+Cybersecurity;Arch+Linux+user+(btw)" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=cba6f7" alt="Profile views" />
+</p>
+
+---
+
+### `$ whoami`
+
+- 🔭 Deep into **systems programming** — happiest close to the metal
+- 🧩 Building full-stack apps with the **MERN stack**
+- 🛠️ Tinkering with **OS / kernel dev**
+- 🕹️ Writing **emulators**, one cycle at a time
+- 🎮 **Game dev** with raylib, Unity & Godot
+- 🤖 Exploring **AI / ML** — NumPy, PyTorch, scikit-learn
+- 🔐 Into **cybersecurity** — I like taking things apart to see how they break
+- 🏆 Competitive programmer on **LeetCode**, **Codeforces** & **CodeChef**
+- 🐧 Daily driver: **Arch Linux**, btw
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=89b4fa" />
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=89dceb" />
+  <img src="https://img.shields.io/badge/C%23-1e1e2e?style=for-the-badge&logo=csharp&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/Lua-1e1e2e?style=for-the-badge&logo=lua&logoColor=74c7ec" />
+  <img src="https://img.shields.io/badge/Rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=fab387" />
+  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af" />
+  <img src="https://img.shields.io/badge/Zig-1e1e2e?style=for-the-badge&logo=zig&logoColor=fab387" />
+  <img src="https://img.shields.io/badge/Haskell-1e1e2e?style=for-the-badge&logo=haskell&logoColor=b4befe" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=a6e3a1" />
+  <img src="https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=89dceb" />
+  <img src="https://img.shields.io/badge/NumPy-1e1e2e?style=for-the-badge&logo=numpy&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/PyTorch-1e1e2e?style=for-the-badge&logo=pytorch&logoColor=fab387" />
+  <img src="https://img.shields.io/badge/scikit--learn-1e1e2e?style=for-the-badge&logo=scikitlearn&logoColor=f9e2af" />
+  <img src="https://img.shields.io/badge/raylib-1e1e2e?style=for-the-badge&logo=raylib&logoColor=f38ba8" />
+  <img src="https://img.shields.io/badge/ratatui-1e1e2e?style=for-the-badge&logo=ratatui&logoColor=cba6f7" />
+</p>
+
+### Database
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-1e1e2e?style=for-the-badge&logo=mongodb&logoColor=a6e3a1" />
+</p>
+
+### Applications & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Blender-1e1e2e?style=for-the-badge&logo=blender&logoColor=fab387" />
+  <img src="https://img.shields.io/badge/Aseprite-1e1e2e?style=for-the-badge&logo=aseprite&logoColor=89dceb" />
+  <img src="https://img.shields.io/badge/Unity-1e1e2e?style=for-the-badge&logo=unity&logoColor=cdd6f4" />
+  <img src="https://img.shields.io/badge/Godot-1e1e2e?style=for-the-badge&logo=godotengine&logoColor=89b4fa" />
+</p>
+
+### Competitive Programming
+
+<p align="left">
+  <a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-1e1e2e?style=for-the-badge&logo=leetcode&logoColor=fab387" /></a>
+  <a href="https://codeforces.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/Codeforces-1e1e2e?style=for-the-badge&logo=codeforces&logoColor=89b4fa" /></a>
+  <a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-1e1e2e?style=for-the-badge&logo=codechef&logoColor=a6e3a1" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=catppuccin_mocha&hide_border=true" />
+</p>
+
+---
+
+### `$ connect --with-me`
+
+<p align="left">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" /></a>
+</p>
+
+<p align="center">
+  <sub>⭐️ from <b>[Your Name]</b> — built in a Catppuccin Mocha terminal</sub>
+</p>
