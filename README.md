@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=cba6f7" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Blade-River&style=for-the-badge&color=cba6f7" alt="Profile views" />
 </p>
 
 ---
@@ -100,7 +100,7 @@
 </p>
 
 ---
-
+<!--
 ### `$ connect --with-me`
 
 <p align="left">
@@ -112,3 +112,4 @@
 <p align="center">
   <sub>⭐️ from <b>Blade River</b> — built in a Catppuccin Mocha terminal</sub>
 </p>
+-->
