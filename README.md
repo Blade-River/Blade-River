@@ -5,7 +5,7 @@
      your username — e.g. github.com/USERNAME/USERNAME — with this file saved as README.md.
 -->
 
-<h1 align="center">Hi there 👋, I'm [Blade River]</h1>
+<h1 align="center">Hi there 👋, I'm Blade River</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=650&lines=Systems+and+Low-Level+Programmer;OS/Kernel+and+Emulator+Dev;Game+Dev,+AI/ML+and+Cybersecurity;Arch+Linux+user+(btw)" alt="Typing SVG" />
@@ -110,5 +110,5 @@
 </p>
 
 <p align="center">
-  <sub>⭐️ from <b>[Blade River]</b> — built in a Catppuccin Mocha terminal</sub>
+  <sub>⭐️ from <b>Blade River</b> — built in a Catppuccin Mocha terminal</sub>
 </p>
