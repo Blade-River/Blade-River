@@ -19,13 +19,13 @@
 
 ### `$ whoami`
 
-- 🔭 Deep into **systems programming** — happiest close to the metal
+- 🔭 Deep into **systems programming**
 - 🧩 Building full-stack apps with the **MERN stack**
-- 🛠️ Tinkering with **OS / kernel dev**
-- 🕹️ Writing **emulators**, one cycle at a time
+- 🛠️ **OS / kernel dev**
+- 🕹️ Writing **emulators**
 - 🎮 **Game dev** with raylib, Unity & Godot
 - 🤖 Exploring **AI / ML** — NumPy, PyTorch, scikit-learn
-- 🔐 Into **cybersecurity** — I like taking things apart to see how they break
+- 🔐 Into **cybersecurity**
 - 🏆 Competitive programmer on **LeetCode**, **Codeforces** & **CodeChef**
 - 🐧 Daily driver: **Arch Linux**, btw
 
