@@ -81,9 +81,9 @@
 ### Competitive Programming
 
 <p align="left">
-  <a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-1e1e2e?style=for-the-badge&logo=leetcode&logoColor=fab387" /></a>
-  <a href="https://codeforces.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/Codeforces-1e1e2e?style=for-the-badge&logo=codeforces&logoColor=89b4fa" /></a>
-  <a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-1e1e2e?style=for-the-badge&logo=codechef&logoColor=a6e3a1" /></a>
+  <a href="https://leetcode.com/Blade-River"><img src="https://img.shields.io/badge/LeetCode-1e1e2e?style=for-the-badge&logo=leetcode&logoColor=fab387" /></a>
+  <a href="https://codeforces.com/profile/Blade-River"><img src="https://img.shields.io/badge/Codeforces-1e1e2e?style=for-the-badge&logo=codeforces&logoColor=89b4fa" /></a>
+  <a href="https://www.codechef.com/users/Blade-River"><img src="https://img.shields.io/badge/CodeChef-1e1e2e?style=for-the-badge&logo=codechef&logoColor=a6e3a1" /></a>
 </p>
 
 ---
@@ -91,12 +91,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Blade-River&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blade-River&layout=compact&theme=catppuccin_mocha&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=catppuccin_mocha&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Blade-River&theme=catppuccin_mocha&hide_border=true" />
 </p>
 
 ---
