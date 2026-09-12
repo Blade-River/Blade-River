@@ -1,10 +1,3 @@
-<!--
-  SETUP CHECKLIST
-  1. Replace every [Your Name] / YOUR_USERNAME / YOUR_LINKEDIN / your.email@example.com placeholder below.
-  2. This only becomes your GitHub profile page if it lives in a PUBLIC repo named EXACTLY
-     your username — e.g. github.com/USERNAME/USERNAME — with this file saved as README.md.
--->
-
 <h1 align="center">Hi there 👋, I'm Blade River</h1>
 
 <p align="center">
@@ -87,7 +80,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -100,6 +93,7 @@
 </p>
 
 ---
+-->
 <!--
 ### `$ connect --with-me`
 
